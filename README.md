@@ -1,0 +1,2 @@
+# games-cfg
+ Games Configuration
